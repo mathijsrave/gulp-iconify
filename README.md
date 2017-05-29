@@ -28,6 +28,7 @@ npm install gulp-iconify-reloaded --save-dev
 or
 ```shell
 yarn add gulp-iconify-reloaded --dev
+```
 
 ###Simple example
 ```javascript
