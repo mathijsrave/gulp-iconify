@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:mathijsrave/gulp-iconify.git"
+    "url": "git@github.com:mathijsrave/gulp-iconify-reloaded.git"
   },
   "main": "index.js",
   "dependencies": {
@@ -36,9 +36,9 @@
     "vinyl-sourcemaps-apply": "^0.2.0"
   },
   "bugs": {
-    "url": "https://github.com/mathijsrave/gulp-iconify/issues"
+    "url": "https://github.com/mathijsrave/gulp-iconify-reloaded/issues"
   },
-  "homepage": "https://github.com/mathijsrave/gulp-iconify",
+  "homepage": "https://github.com/mathijsrave/gulp-iconify-reloaded",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
