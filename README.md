@@ -23,8 +23,11 @@ Gulp-iconify Reloaded is a reboot of the great work put in gulp-iconify.
 
 ##Usage
 ```shell
-npm install gulp-iconify --save-dev
+npm install gulp-iconify-reloaded --save-dev
 ```
+or
+```shell
+yarn add gulp-iconify-reloaded --dev
 
 ###Simple example
 ```javascript
