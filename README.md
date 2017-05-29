@@ -14,7 +14,7 @@ Gulp-iconify Reloaded is a reboot of the great work put in gulp-iconify.
 * Inline SVG output (long term)
 * ... more
 
-** This part is still the old readme of gulp-iconify **
+__This part is still the old readme of gulp-iconify__
 
 'A mystical CSS icon solution', [grunticon](https://github.com/filamentgroup/grunticon)-like build system for [Gulp](https://github.com/gulpjs/gulp):
 
