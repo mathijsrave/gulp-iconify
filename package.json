@@ -1,8 +1,8 @@
 {
   "name": "gulp-iconify-reloaded",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "description": "An updated and maintained version of gulp-iconify. Based on the great work of gulp-iconify and grunticon",
-  "author": "Mathijs Rave <mail@mathijsrave.nl> (http://mathijsrave.nl)",
+  "author": "Mathijs Rave <contact@mathijsrave.nl> (http://mathijsrave.nl)",
   "keywords": [
     "gulpplugin",
     "base64",
